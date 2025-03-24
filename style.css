@@ -1,0 +1,58 @@
+
+body{
+    
+margin: 0px;
+padding: 00px;
+
+}
+
+
+.container {
+    display: flexbox;
+    font-family: Arial, sans-serif;
+    background-color: #f9f6f1;
+    color: #333;
+    margin: 0px;
+    padding: 00px;
+    text-align: center;
+    
+}
+
+header{
+    padding: 5px;
+    background-color: burlywood;
+}
+
+
+
+nav a{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f6f1;
+    text-decoration: none;
+    color: black;
+}
+
+#Sobre p{ 
+    display: inline-block;
+    background-color: #f9f6f1;
+    text-align: justify;
+    display: flexbox;
+    width: 900px;
+}
+
+.produto{
+    display: inline-block;
+    width: 300px;
+    border: 1px solid white;
+    background-color: #fffffe;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+footer{
+    background-color: burlywood;
+    padding: 10px;
+}
